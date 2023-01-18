@@ -320,6 +320,14 @@
     [
       "0ddec2b6-b97f-44d3-913e-9f8ffaa22885",
       ""
+    ],
+    [
+      "0e04ce72-6533-49cc-b4b5-6fa7ba1a6887",
+      "MCU_Battery"
+    ],
+    [
+      "ea7fdac0-4451-48b5-bbfd-e0f47d60ba04",
+      "Key_Array"
     ]
   ],
   "text_variables": {}
