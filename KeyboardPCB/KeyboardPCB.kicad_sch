@@ -134,10 +134,13 @@
     (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/03b3ca79-3ab6-4dd4-a4a6-1184d9977047"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
-    (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/217170e7-02b0-4721-a9ae-bf27c7579732"
+    (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/6d8c2431-90fb-4ad7-adf4-1565413bfa0a"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/92639466-2140-45c8-98e0-0ec5507f028d"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/ac8c0548-9166-47ec-a85f-139f0e9a6d98"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/afce16ac-5064-4d84-8271-858b78925b08"
@@ -152,7 +155,13 @@
     (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/f72b91bb-4963-49bc-9a06-44650fc96a66"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/280f704d-840e-4a66-a435-b638c5d9233f"
+      (reference "C?") (unit 1) (value "C") (footprint "")
+    )
     (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/8c980024-088c-474b-904a-257356022afa"
+      (reference "C?") (unit 1) (value "C") (footprint "")
+    )
+    (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/ae40d9b4-7939-4535-bc5f-605681edeac5"
       (reference "C?") (unit 1) (value "C") (footprint "")
     )
     (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/baf55504-1638-4b06-86e0-17fd16d0a675"
@@ -161,16 +170,19 @@
     (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/ed5705de-d8ab-4fe8-8018-9d618398e3da"
       (reference "C?") (unit 1) (value "C") (footprint "")
     )
-    (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/fdcbe8af-147a-4070-b782-6028649674a9"
+    (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/183f1189-1050-4e26-a66a-be7f0e46c29b"
       (reference "P?") (unit 1) (value "USB_C_Plug") (footprint "")
     )
-    (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/0993b7d0-6b65-4009-9a7d-eadda9645e11"
-      (reference "R?") (unit 1) (value "R") (footprint "")
+    (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/fdcbe8af-147a-4070-b782-6028649674a9"
+      (reference "P?") (unit 1) (value "USB_C_Plug") (footprint "")
     )
     (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/3ef6fae3-f203-4c9b-b912-a36ef33b5ed0"
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
-    (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/c9970bb5-e247-4ec3-b259-8f609bf5d25d"
+    (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/c0f5721b-f0e5-476e-a804-96f233add7c6"
+      (reference "R?") (unit 1) (value "R") (footprint "")
+    )
+    (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/ccc4d077-bb3c-4c14-b2ff-6a35861360c0"
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
     (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/f0f9d047-bb95-489c-a66e-ade0a6a02eec"
@@ -178,6 +190,9 @@
     )
     (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/63c4fb70-d5d0-4847-b1fc-8825ba81862f"
       (reference "SW?") (unit 1) (value "SW_Push") (footprint "")
+    )
+    (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/6da45897-3798-4178-ae94-d41fac51109f"
+      (reference "U?") (unit 1) (value "KA78M05_TO252") (footprint "Package_TO_SOT_SMD:TO-252-2")
     )
     (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/b78937a8-6a0d-4f12-a5b8-a9031e3b41b1"
       (reference "U?") (unit 1) (value "ATmega32U4-M") (footprint "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm")
