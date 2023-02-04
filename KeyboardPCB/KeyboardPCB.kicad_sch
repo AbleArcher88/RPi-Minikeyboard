@@ -8,6 +8,27 @@
   )
 
 
+  (wire (pts (xy 139.7 129.54) (xy 152.4 129.54))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 18ad3fde-385f-4646-9791-2341d05ab893)
+  )
+  (wire (pts (xy 139.7 127) (xy 152.4 127))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 7498bd2b-1500-4993-a00c-3951fee27b55)
+  )
+  (wire (pts (xy 139.7 134.62) (xy 152.4 134.62))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid aa08f68d-3cec-452b-a671-35485b63d65a)
+  )
+  (wire (pts (xy 139.7 132.08) (xy 152.4 132.08))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid ad75e09f-d658-4a55-9cef-1c6a42531a1e)
+  )
+  (wire (pts (xy 139.7 124.46) (xy 152.4 124.46))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid cdbc82aa-460e-48ef-9b2c-da0d978bd687)
+  )
+
   (sheet (at 25.4 25.4) (size 114.3 114.3) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
@@ -122,6 +143,26 @@
     (property "Sheet file" "Key_Array.kicad_sch" (id 1) (at 152.4 140.2846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
+    (pin "IROW3" input (at 152.4 132.08 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid d5bbc0cf-b3be-4f70-a650-086174c4a6f7)
+    )
+    (pin "IROW0" input (at 152.4 124.46 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 1e9ae9ed-c031-486a-ba74-17f7a5d503d2)
+    )
+    (pin "IROW1" input (at 152.4 127 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 099783c6-d970-4fe8-9c29-afb2cd81e691)
+    )
+    (pin "IROW2" input (at 152.4 129.54 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 23aea041-be01-47c7-a1e7-d255df376e75)
+    )
+    (pin "IROW4" input (at 152.4 134.62 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid f111fdd7-e2f6-4606-be51-d05f17dd1146)
+    )
   )
 
   (sheet_instances
@@ -169,6 +210,75 @@
     )
     (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/ed5705de-d8ab-4fe8-8018-9d618398e3da"
       (reference "C?") (unit 1) (value "C") (footprint "")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/085d0668-2bdd-442e-845c-04885261abc3"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/093654b7-9a4e-46ae-aec2-41e4a1ffa408"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/0d494db2-e686-41d9-88ce-34916737d604"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/16056eea-bff8-43e3-bb4c-e2e99df660e6"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/17a0798e-831d-48ea-bd0e-a352003521db"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/223d0d00-e7b6-435c-969f-835885c93655"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/41cf5a6e-7eaf-4a99-af9a-7c6d950a495f"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/431e94e4-692a-49ef-91fa-2f1556593f4e"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/501e12a6-9a36-4baf-80f5-810ca392bffd"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/5840ce00-bee4-40ba-846f-10ca1bb7d4de"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/5fa281b3-e577-4328-8d83-48a007938557"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/6ae57d11-2a31-46f4-8222-b0bd7d31568b"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/6da9421a-adbd-4537-9d56-f2db3ac939ed"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/71436118-c748-4905-af3d-df29f06c495c"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/92a1e4cf-9acd-481f-b88e-e8b9a265ecdf"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/97b7cdb2-0216-462b-905c-2660b2056218"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/a85d7478-307e-47f5-a60f-3f2421d1bcea"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/d176cf6e-56df-4a40-b93b-80e097893c73"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/e4268ceb-2678-4de9-a4ca-bddabb568869"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/e4fb8c8c-736b-44dc-b9ed-ef5ee728c773"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/e659915c-b451-4bb8-928a-9ba1a5963466"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/efa2639e-c29f-44ad-8c82-496ec26a1cee"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
+    )
+    (path "/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04/f54334f0-73c8-4d3f-8db3-1519a520ddd0"
+      (reference "D?") (unit 1) (value "1N4148WT") (footprint "Diode_SMD:D_SOD-523")
     )
     (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/183f1189-1050-4e26-a66a-be7f0e46c29b"
       (reference "P?") (unit 1) (value "USB_C_Plug") (footprint "")
