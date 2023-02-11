@@ -384,9 +384,6 @@
   (junction (at 88.9 46.99) (diameter 0) (color 0 0 0 0)
     (uuid 2041d007-39f0-425e-9520-706d9010b8bc)
   )
-  (junction (at 60.96 81.28) (diameter 0) (color 0 0 0 0)
-    (uuid def148d3-3359-491e-89ff-654623906ef1)
-  )
 
   (no_connect (at 124.46 46.99) (uuid 03cfb0c5-9caf-4c2e-af2b-a4e8f08f1e22))
   (no_connect (at 114.3 46.99) (uuid 18b4a0f2-0c9a-4b41-8a98-751d64fd7804))
@@ -562,22 +559,6 @@
     (pin "B8" (uuid f1b15bb0-9c45-447c-bfc8-db8eb0baa0a9))
     (pin "B9" (uuid fcebf98b-9be5-4bcc-ab4d-28d10bd9e402))
     (pin "S1" (uuid 2ff347a8-072b-4b8d-9b64-bca4c590dbb1))
-  )
-
-  (symbol (lib_id "power:+5V") (at 60.96 81.28 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid 12b6b2b1-fe05-4fac-93d7-1710e103d49c)
-    (property "Reference" "#PWR02" (id 0) (at 60.96 85.09 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+5V" (id 1) (at 60.96 76.2 0))
-    (property "Footprint" "" (id 2) (at 60.96 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (id 3) (at 60.96 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid e1b241c3-3d57-4751-9776-fcb1b23d702f))
   )
 
   (symbol (lib_id "power:GND") (at 45.72 147.32 0) (unit 1)
@@ -900,9 +881,6 @@
     (path "/245222ca-f750-471b-bcf5-80e538bca60d"
       (reference "#PWR01") (unit 1) (value "GND") (footprint "")
     )
-    (path "/12b6b2b1-fe05-4fac-93d7-1710e103d49c"
-      (reference "#PWR02") (unit 1) (value "+5V") (footprint "")
-    )
     (path "/6fb4039a-73ff-4aaa-834e-e47a8fd86b36"
       (reference "#PWR03") (unit 1) (value "+5V") (footprint "")
     )
@@ -1182,14 +1160,14 @@
     (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/ff831bb6-69da-4f49-b711-4e1d8da75d50"
       (reference "R2") (unit 1) (value "R") (footprint "")
     )
-    (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/cd227165-3689-448f-a393-b1377c88e7b2"
+    (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/f43f09d1-a598-404e-abc7-5bb9fdcb8a91"
       (reference "R3") (unit 1) (value "CRMA1206AF10K0DKEF") (footprint "RESC3216X74N")
     )
     (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/2a4dcae6-5b58-494d-9464-1bc4dacaf828"
       (reference "R4") (unit 1) (value "CRMA1206AF10K0DKEF") (footprint "RESC3216X74N")
     )
-    (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/c2301fc4-e275-4763-8e5b-983bf1f23ff2"
-      (reference "R5") (unit 1) (value "R") (footprint "")
+    (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/be295a14-ceda-4757-b5c9-058286067067"
+      (reference "R5") (unit 1) (value "CRMA1206AF10K0DKEF") (footprint "RESC3216X74N")
     )
     (path "/0e04ce72-6533-49cc-b4b5-6fa7ba1a6887/035328f6-5823-48a6-9a80-044707bde27e"
       (reference "R6") (unit 1) (value "R") (footprint "")
