@@ -984,7 +984,7 @@
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid 7031f741-db12-4d42-b468-4654fc0c9ef2)
     )
-    (pin "VBUSOUT" input (at 74.93 91.44 180)
+    (pin "VBUSOUT" output (at 74.93 91.44 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 950fc565-a407-4fed-9c05-6541b953a02a)
     )
