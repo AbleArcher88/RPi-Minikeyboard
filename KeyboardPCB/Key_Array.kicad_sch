@@ -1753,10 +1753,10 @@
     (property "Mouser Testing Price/Stock" "" (at 147.32 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 1c13d700-d846-4b68-a605-c6521c334b7c))
-    (pin "2" (uuid c8dac85e-ce47-4c18-9cf6-6f06cf6eae8c))
-    (pin "3" (uuid 2bd35e22-d4de-4213-8175-053132b364d7))
-    (pin "4" (uuid 31270ae2-06d2-4ece-a607-fdf67d36ae17))
+    (pin "1" (uuid c81baf50-190e-4ace-b8e8-2840989b5edf))
+    (pin "2" (uuid aecb3138-f364-4bae-9515-ae79531ede0b))
+    (pin "3" (uuid 3ec3c2f0-0066-401f-afc0-0d1021a2418c))
+    (pin "4" (uuid d297ab8b-ab49-4ed1-8b81-0d5f6a9f2958))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -1811,10 +1811,10 @@
     (property "Mouser Testing Price/Stock" "" (at 210.82 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 262e1ddb-f74c-43b2-ac99-34179d7c324a))
-    (pin "2" (uuid 269b3532-394a-4dea-bb88-9ea037b8a603))
-    (pin "3" (uuid 75db7046-d974-4c65-8529-04de16f12c47))
-    (pin "4" (uuid 655b0dcf-d555-4d89-87b0-068ef82df14a))
+    (pin "1" (uuid 5c75a6d4-f1bd-4ff7-a412-43fc32f1e018))
+    (pin "2" (uuid 28f2a783-2f7a-4f79-9369-e01393deff06))
+    (pin "3" (uuid 526b6233-3358-4191-bab3-435da4a04d0d))
+    (pin "4" (uuid 15e3c92b-9ea0-4965-affa-f397b4482a7b))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -1845,8 +1845,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 78.74 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f68249a4-5a46-42ac-92ba-e995df7c5227))
-    (pin "2" (uuid 4714d778-10f5-49ea-abc8-5d1c9385c055))
+    (pin "1" (uuid 0477e7ca-b04f-42a9-bf71-7bce820ed297))
+    (pin "2" (uuid 738e134e-057b-428a-9bce-781c0a405765))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -1877,8 +1877,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 66.04 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 60a96d9a-a91b-47d5-8024-aec4fe1d27b9))
-    (pin "2" (uuid 0a7864e5-2b1d-4604-88cc-05369d37c5e7))
+    (pin "1" (uuid 2e7d30bf-9ec2-4799-8040-520454c55e33))
+    (pin "2" (uuid 5f9a96ee-ebd6-4575-a5c3-964f1f458a94))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -1909,8 +1909,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 91.44 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ad54e800-63b9-4dec-a1c6-3c402936304f))
-    (pin "2" (uuid 774ed9ea-a7f2-455b-8782-e599255af987))
+    (pin "1" (uuid ae1ca062-c6be-4004-9dc6-3e532be59bb7))
+    (pin "2" (uuid 6dd4fce4-b7a5-42c4-834c-5bc17e166f59))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -1941,8 +1941,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 218.44 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0cb3e8b4-fc99-49c0-b776-ad4a690b0135))
-    (pin "2" (uuid ce74d0fc-849c-494b-a559-86bb87886ddb))
+    (pin "1" (uuid dbfa5a40-4776-4d95-ba63-2d6ccc43e445))
+    (pin "2" (uuid 831ad500-55a5-45fd-ae33-682e05e5a5c1))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -1973,8 +1973,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 154.94 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 62a88c10-2896-4a5b-9949-5893b7f6f2e7))
-    (pin "2" (uuid 2336a16c-1b11-430b-b9a3-405f080828a7))
+    (pin "1" (uuid 6c7ff665-b3bc-417d-aa55-44c5b3a220b0))
+    (pin "2" (uuid 4dc7f1d0-a434-4e60-a01d-0f08827ab9b9))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2029,10 +2029,10 @@
     (property "Mouser Testing Price/Stock" "" (at 223.52 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid b5af73cf-4f59-435a-bcaf-a3ef958f8d8f))
-    (pin "2" (uuid 6d73cccc-0165-417a-9e84-aeadb4d9d878))
-    (pin "3" (uuid db9df5b6-bce9-46e0-a868-0f068dfa67bf))
-    (pin "4" (uuid 2e38b98c-894e-4148-ac35-59a1634e2b6c))
+    (pin "1" (uuid 88d37926-af1f-4b54-8f67-ecde5ce0566a))
+    (pin "2" (uuid 5226c0a4-6150-4e0d-9b68-9f55333a3f97))
+    (pin "3" (uuid c0269e2e-2c0d-42dd-ada5-269b4158f605))
+    (pin "4" (uuid 6663145e-f9c1-4ae0-a5fd-4930dde3e695))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2063,8 +2063,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 167.64 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c8292d18-26f9-4f36-bfc1-9356c12d3cda))
-    (pin "2" (uuid 06ef3766-0b05-40b8-a49a-e46c3a842222))
+    (pin "1" (uuid 33f14486-d98e-4b2e-8a6b-fd1171f0b039))
+    (pin "2" (uuid 6e538add-09da-4b8b-8e4b-9e59e1935334))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2119,10 +2119,10 @@
     (property "Mouser Testing Price/Stock" "" (at 121.92 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 2e745ba1-4c89-436c-84f8-2655e7c84f1a))
-    (pin "2" (uuid 28ff8a8e-785b-45f6-97f1-2243ecc4dc5c))
-    (pin "3" (uuid 2b51f632-68eb-460b-bac6-bae05762c7f2))
-    (pin "4" (uuid d65b9cf9-50f0-431d-9cfb-e2ad8630baac))
+    (pin "1" (uuid af0c85c9-d97c-4c74-b627-8c63a5a52e33))
+    (pin "2" (uuid 467e7236-e9b8-400c-aa6b-bdae49f0a272))
+    (pin "3" (uuid 8fc4037a-c6bb-4d6c-a439-949218eeaaba))
+    (pin "4" (uuid c22e6016-6ccf-4cb7-a884-f022451869c4))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2153,8 +2153,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 180.34 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a9e01d97-fd6a-4004-b59a-71cc6444d149))
-    (pin "2" (uuid 62e19356-4c20-43e3-9803-33f272c08902))
+    (pin "1" (uuid b374f353-0d65-4091-8274-1e0112506243))
+    (pin "2" (uuid 018b3632-e753-45fb-a0f6-74fa97cffda0))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2185,8 +2185,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 53.34 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8117cb73-1e6c-4543-83ba-e0e0f1f8253d))
-    (pin "2" (uuid 591519de-ca52-4033-befe-f8090c4fbebf))
+    (pin "1" (uuid e0ab508b-6adb-460e-84c6-20452a290d52))
+    (pin "2" (uuid e578fe07-af4e-44df-95d9-fd108cf766fb))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2217,8 +2217,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 104.14 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b0e0f961-6415-4dd8-880f-25cf8b170a38))
-    (pin "2" (uuid af59d82e-cada-40a8-942b-8be3ee3e116d))
+    (pin "1" (uuid 9c965a4f-f281-4452-9710-5129235180e9))
+    (pin "2" (uuid 9e1efd00-32d7-45c5-9e8d-def9e47fbaf3))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2249,8 +2249,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 116.84 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 40d9fdd7-83e3-4d30-8781-30f9ce096248))
-    (pin "2" (uuid 0d55f343-d48e-40a9-9cac-8989d4c9fbe6))
+    (pin "1" (uuid 053dd4b5-da02-4133-8e1d-c1a23006746e))
+    (pin "2" (uuid fe225126-252d-4d9c-993f-a620f89b38f3))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2305,10 +2305,10 @@
     (property "Mouser Testing Price/Stock" "" (at 160.02 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid e0072825-23af-4297-80b5-8aac71fd39fd))
-    (pin "2" (uuid 50c0a644-8796-48ac-8d35-6e06eeca75ff))
-    (pin "3" (uuid d59a449f-f690-4bec-9c63-9fe51b0ef5f3))
-    (pin "4" (uuid 00b28278-bb80-444d-aa5b-6f20623756eb))
+    (pin "1" (uuid 2864da7b-3d86-46b3-80ed-173054cacefe))
+    (pin "2" (uuid 15a4ad63-0a40-4108-a855-c174e7d40803))
+    (pin "3" (uuid 889678bf-d707-4992-b480-999848e7cd22))
+    (pin "4" (uuid 46b7f122-6a75-4ae9-9104-b63b30b4ac08))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2363,10 +2363,10 @@
     (property "Mouser Testing Price/Stock" "" (at 172.72 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 7b5d27c4-359d-4520-abc5-e58c172406b2))
-    (pin "2" (uuid 66b29cf2-6336-463b-932f-4aa847c0b21f))
-    (pin "3" (uuid 6da7ba3a-c682-4760-8d1b-51af9be24c31))
-    (pin "4" (uuid a1fc10c7-3218-4cbc-b4bc-9b3aa7187fa3))
+    (pin "1" (uuid 94d93ccd-9092-4ef6-a290-7b405409660e))
+    (pin "2" (uuid f19b7152-16ed-4939-a83a-a2347b954570))
+    (pin "3" (uuid d76ca73a-cbd4-412e-babd-22d012c07322))
+    (pin "4" (uuid 67172aa3-aa7c-46e0-aa00-3ad68f037ed1))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2421,10 +2421,10 @@
     (property "Mouser Testing Price/Stock" "" (at 147.32 156.21 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid f6043f23-61db-48ea-add7-98d56a5998ec))
-    (pin "2" (uuid 26d49055-ad9a-442b-95e1-93da8f0ba756))
-    (pin "3" (uuid b608ce77-36fe-48ca-8019-21436ff3a065))
-    (pin "4" (uuid 20e50287-efe4-4b8b-bf8b-baa8b76b351b))
+    (pin "1" (uuid 3fd2d25c-7410-43b4-8041-d06ddeca5133))
+    (pin "2" (uuid cd047570-2b8f-4cd4-9f3c-2f6f8cd3b3e8))
+    (pin "3" (uuid 95cb57b6-75f1-4d1e-911e-decc5b2744c4))
+    (pin "4" (uuid 0005fdc2-e63f-4827-a08e-5d738973fa91))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2455,8 +2455,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 66.04 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f3c3f285-cea6-40e6-9ac9-7ce05f497193))
-    (pin "2" (uuid 802542fa-b28f-42b3-bd1a-1ad9d144792e))
+    (pin "1" (uuid 7a207d7e-1095-4df9-b5da-73e52ea3dd9c))
+    (pin "2" (uuid ecde1dec-181e-4162-b28f-6422ea2cec6d))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2511,10 +2511,10 @@
     (property "Mouser Testing Price/Stock" "" (at 121.92 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 65a239d2-9cf0-4513-afeb-2bd353dd2958))
-    (pin "2" (uuid bfd26d22-5d9f-4c00-b24f-92305d4457d9))
-    (pin "3" (uuid fc27ccdc-a6fd-4741-b0f3-314191a03fe8))
-    (pin "4" (uuid 60af13e6-9e39-4d42-84e4-590dd2a552bf))
+    (pin "1" (uuid dc6cf111-56df-4cb1-8f54-987308b3ec77))
+    (pin "2" (uuid 4f628b14-6810-463d-9652-c3f0dfd96ac1))
+    (pin "3" (uuid b6cdb1fa-3552-4434-ad6e-3389fe37d7a7))
+    (pin "4" (uuid 1560bd6c-9dee-4e9a-ae66-fc4f36afc41c))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2569,10 +2569,10 @@
     (property "Mouser Testing Price/Stock" "" (at 223.52 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 95fec238-4b23-4412-8dd3-04947cbcee1b))
-    (pin "2" (uuid 39f167a9-1518-453c-990e-413a8862b78b))
-    (pin "3" (uuid 1ef37c83-7af2-4680-9465-bccbaa1261cf))
-    (pin "4" (uuid 1c547cd4-8ac1-45bf-839a-0e86618fb125))
+    (pin "1" (uuid 7bd6fbfd-0384-4aed-b98e-bac28751477b))
+    (pin "2" (uuid 667ab780-44b5-4783-aa64-da41d9cf4050))
+    (pin "3" (uuid 8dab7661-ec2a-4494-8745-e00ba251bd2b))
+    (pin "4" (uuid 58cf081b-dfa6-4242-97c3-8c7448d53420))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2603,8 +2603,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 91.44 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4a48a134-02f8-42a0-89c2-bb9a751e3cfc))
-    (pin "2" (uuid f2e037f3-0256-41bd-baed-2038da6133bd))
+    (pin "1" (uuid bf6e890e-e07b-4606-8551-c286d76a12f1))
+    (pin "2" (uuid b268a61a-7e83-42b5-9056-d8142924ef67))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2635,8 +2635,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 193.04 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid db4700c2-6cae-44db-b6c8-6fff7a0a73f6))
-    (pin "2" (uuid 1788cf50-f58e-420e-994b-5618fbf5e67f))
+    (pin "1" (uuid e43ded6b-93e4-424a-a310-911c84f58736))
+    (pin "2" (uuid dd42a4fa-dc2a-48b9-a748-9b5eb04920b8))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2691,10 +2691,10 @@
     (property "Mouser Testing Price/Stock" "" (at 248.92 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid ad92de65-3655-4ac3-bfa3-f1abb7e1aa4d))
-    (pin "2" (uuid 0822d623-2529-4534-9081-50d5eae28459))
-    (pin "3" (uuid d0fb4878-686f-47e1-902e-e5aaf27b5a89))
-    (pin "4" (uuid fb593e10-19ee-4306-9e66-56132bd285ca))
+    (pin "1" (uuid 18e0a122-bb2c-4652-a425-80d1420bd2cf))
+    (pin "2" (uuid ab6ae1d5-e77f-4378-9741-bab03061651d))
+    (pin "3" (uuid 4e84f2a7-f214-4c53-ad4a-64d9857e2fed))
+    (pin "4" (uuid acecfb8d-ca6b-4bfd-b90d-2294a877add6))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2725,8 +2725,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 193.04 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 088021e3-7aba-467b-8057-b7e8912a043c))
-    (pin "2" (uuid fee53d82-208a-4423-88cd-5ceb2e3798c1))
+    (pin "1" (uuid edecb321-905f-4002-be1b-64e0fda73538))
+    (pin "2" (uuid 23525621-df13-4249-820f-ac38fad483b0))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2781,10 +2781,10 @@
     (property "Mouser Testing Price/Stock" "" (at 121.92 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 93a11f36-887d-49bc-852a-7b69b3adcd77))
-    (pin "2" (uuid c269789a-034a-4344-8e37-f55d445d8c6b))
-    (pin "3" (uuid 124538ce-7c1d-459f-8193-19a21c7bb53c))
-    (pin "4" (uuid b047ccb8-3641-42d5-8c53-4e50fa3c61ee))
+    (pin "1" (uuid eb756dcb-2dc1-4d11-bd53-dd7b6b1850b8))
+    (pin "2" (uuid edeb924c-9969-4d93-801e-3b0404569e9d))
+    (pin "3" (uuid 2a65c5d7-039d-4127-9b49-932800776fb1))
+    (pin "4" (uuid 34688c38-ac5e-4fd3-a1ec-09e7da633165))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2839,10 +2839,10 @@
     (property "Mouser Testing Price/Stock" "" (at 198.12 156.21 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 6dac5d81-0a14-4d89-ab59-411deab2e363))
-    (pin "2" (uuid 19638ba8-a986-4877-a543-f17f5e913404))
-    (pin "3" (uuid 9b737a64-614a-456c-b939-85c5ae34dee5))
-    (pin "4" (uuid 8e2463a2-8cff-4bec-98e5-bad03c08b9d6))
+    (pin "1" (uuid c19948f0-31cb-4aaa-95f3-9681b70b44ff))
+    (pin "2" (uuid 807a1970-06a6-4b7c-bde5-63be686f948f))
+    (pin "3" (uuid 2b94ea9b-3759-484f-90c7-bf4d80fb6230))
+    (pin "4" (uuid 99618890-7590-4332-9799-8496ebe1ff5f))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2873,8 +2873,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 154.94 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f5aba1d1-e304-4d10-ac08-07b9677f919d))
-    (pin "2" (uuid 35bda1c2-4a79-403d-b257-64e4d3318c0f))
+    (pin "1" (uuid 002af942-3304-4c63-bd31-680239b8cbcd))
+    (pin "2" (uuid 4487cbe5-8568-4f07-95e7-068a061c32cd))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2905,8 +2905,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 180.34 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid afe4ecfd-a5ff-4fc8-882a-380d8b069464))
-    (pin "2" (uuid 10de3903-602a-4632-9541-5a02046894df))
+    (pin "1" (uuid ac74839d-bf9b-4856-aeff-070a34e88a74))
+    (pin "2" (uuid 0fb83b29-3ade-4a92-b558-e3edbd7bee0e))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -2961,10 +2961,10 @@
     (property "Mouser Testing Price/Stock" "" (at 185.42 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 7c891e1d-2291-4c80-ac7e-457c6a4d5e67))
-    (pin "2" (uuid 3f1b62c6-828f-4cda-9dc8-5a95c1171a02))
-    (pin "3" (uuid 1f655b6e-61e5-4d74-9b74-8c4cdd5023bd))
-    (pin "4" (uuid a5055880-b06c-4b9c-87f8-e0055a229a24))
+    (pin "1" (uuid a9778ecb-ea60-41f7-a027-379c94b34842))
+    (pin "2" (uuid b2305bcf-3940-4e70-8561-010f4154e083))
+    (pin "3" (uuid 5fd993b5-6e4d-4c9e-ae1b-caf4a7625a35))
+    (pin "4" (uuid 2abab8e2-a626-43f4-bfa7-20f686267ea6))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3019,10 +3019,10 @@
     (property "Mouser Testing Price/Stock" "" (at 223.52 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid b926d351-a637-4a05-8ace-62a554d36818))
-    (pin "2" (uuid 33376d9a-745f-44ce-9165-23dcaacd2753))
-    (pin "3" (uuid f396a7c8-9f66-4343-9f51-9a6c4d3c411f))
-    (pin "4" (uuid 0e9cc489-e123-4b65-9382-4d78a889c08f))
+    (pin "1" (uuid 54c06b67-ff46-445e-b164-c7a610920d83))
+    (pin "2" (uuid 2a596bca-6a28-4de0-9676-666cc19696c0))
+    (pin "3" (uuid f0f8e451-8253-4554-a697-ec63b4377b7c))
+    (pin "4" (uuid 8ff3b03a-ead5-4d34-b25d-8b006d65c77e))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3077,10 +3077,10 @@
     (property "Mouser Testing Price/Stock" "" (at 134.62 156.21 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 4c2f73f7-3141-4b15-be9e-a753454f8ebf))
-    (pin "2" (uuid 04c44706-5ceb-4373-afc9-d36264285d40))
-    (pin "3" (uuid b4931d90-b61f-4445-9af0-dffb2c878f0d))
-    (pin "4" (uuid f2e44011-2d08-4ebe-b7bd-5be2a3d151fc))
+    (pin "1" (uuid dda08a00-d1f5-4c3b-8616-6b9d78cdc848))
+    (pin "2" (uuid a9035c61-7ec6-4ff1-bb71-7b37785f9bdc))
+    (pin "3" (uuid e4d6b15c-816b-48e5-b8e0-e6309f0fb083))
+    (pin "4" (uuid 366ffc8e-e804-4a1b-a732-ed01311c373c))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3135,10 +3135,10 @@
     (property "Mouser Testing Price/Stock" "" (at 71.12 156.21 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 8e69745e-87b4-42aa-80e7-2067400a4a4c))
-    (pin "2" (uuid f7bf18ef-a1a0-4f81-9747-e5ebb2970bbe))
-    (pin "3" (uuid b1df01eb-e414-49ab-b996-a3b6b75214fa))
-    (pin "4" (uuid ce2a788f-68d8-49c6-8294-32a7faffd445))
+    (pin "1" (uuid 67121d6e-285b-4e92-9f28-f5430321a112))
+    (pin "2" (uuid 6fe9037f-6cf0-409b-be36-8753aaa50427))
+    (pin "3" (uuid c0d1327e-990d-446a-bd49-9ea417341214))
+    (pin "4" (uuid aefa72b4-51b3-44b7-be4e-b0765d37fa68))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3193,10 +3193,10 @@
     (property "Mouser Testing Price/Stock" "" (at 210.82 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 3904520e-257c-42db-a6e3-29f0190e9161))
-    (pin "2" (uuid 27bf9f3d-8eee-40c0-ae19-81048d891726))
-    (pin "3" (uuid acd9aaa3-a350-4284-9a71-fb138b28ebda))
-    (pin "4" (uuid ac5d862c-605a-439c-9c67-24f0c76eb87f))
+    (pin "1" (uuid cda2efcf-e8ed-43c7-bf64-8cf3512bcf8f))
+    (pin "2" (uuid f9c7096e-108d-4328-83d4-285cd77ccebb))
+    (pin "3" (uuid a2b2e8c1-352a-4435-8bb4-6911ab0f3519))
+    (pin "4" (uuid 9f3c124a-e628-4360-a79f-00d8be1e386e))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3251,10 +3251,10 @@
     (property "Mouser Testing Price/Stock" "" (at 236.22 156.21 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 88d844b0-b3a1-44e1-aa2a-ebb722edd06d))
-    (pin "2" (uuid f582e2d3-8a6c-4b67-a269-a492ee27bc40))
-    (pin "3" (uuid 0341bacd-b4e6-4fb3-9ee2-b6b3bc3a58b8))
-    (pin "4" (uuid 79177604-d8a6-4081-855b-902f657f5607))
+    (pin "1" (uuid f2bd8143-40ec-4c95-9dd0-ecc1fe8959f9))
+    (pin "2" (uuid aaa19e8a-a065-4ae9-82a4-4ba3249b807b))
+    (pin "3" (uuid 7eaabfa0-1c1d-4fb7-89d6-e58bb15baf40))
+    (pin "4" (uuid f8700455-314c-4d33-a001-b21dd8cabdf5))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3285,8 +3285,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 205.74 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 38d97966-f5de-4ce8-8531-c69228c0ef7e))
-    (pin "2" (uuid 52ff25cb-6f1d-469d-90b3-d6f56e09891b))
+    (pin "1" (uuid b98d2ccf-4fe7-4519-be16-71ccc571c950))
+    (pin "2" (uuid 093b43a2-ef65-4a29-9f33-d875737b60ba))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3317,8 +3317,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 180.34 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9b75c97c-ab1e-4ca1-8a47-70294293a8ee))
-    (pin "2" (uuid 5bc4ec66-611e-4a3d-884b-52bc76c045a7))
+    (pin "1" (uuid 4df60a4a-a97c-45ec-89b1-47b8fb8ac449))
+    (pin "2" (uuid 72d1c3ce-ef9a-4c4b-9bdc-68045572a819))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3349,8 +3349,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 205.74 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 17215763-1961-4d3d-853f-16344532934f))
-    (pin "2" (uuid 39584b72-5e15-4a5a-a3fe-e803a0594ea8))
+    (pin "1" (uuid 87386f38-0526-4f69-a6d4-3b4c66a381d6))
+    (pin "2" (uuid 9b18f903-dcff-4338-8202-cb7efb3ed477))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3381,8 +3381,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 78.74 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 99e3ffaa-de6d-4659-bee1-03cfb2b70b91))
-    (pin "2" (uuid 7d1eba7b-b886-4141-9330-c9ebeb6bdbdf))
+    (pin "1" (uuid 3a001688-b6ee-4059-ae82-c35ca43d1bc2))
+    (pin "2" (uuid b32b7577-e9ba-4d69-92ce-48c213979308))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3437,10 +3437,10 @@
     (property "Mouser Testing Price/Stock" "" (at 58.42 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid e585e742-9bcd-4970-980c-044affe9f083))
-    (pin "2" (uuid 4aae6e32-2c06-40b9-951b-e399f4c12979))
-    (pin "3" (uuid db8bfceb-1497-44dc-a478-6c2bb987b1c5))
-    (pin "4" (uuid 9bb26526-8313-4939-ab7f-1ee554f73a72))
+    (pin "1" (uuid bdd6aa2e-90f4-4922-9c2d-df0db5f96991))
+    (pin "2" (uuid dfe04bf9-b0f3-433d-ab20-650050241617))
+    (pin "3" (uuid 99d13c1a-40d5-4c56-a82f-15e2d3f3b365))
+    (pin "4" (uuid d86b43af-30e7-4e29-9c37-19821802801f))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3471,8 +3471,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 167.64 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 27c4c204-7d97-495d-ad7f-01f50fd2e8ab))
-    (pin "2" (uuid 344a5df8-df7b-43af-8296-4da5d711f33e))
+    (pin "1" (uuid 9b6f802d-8c70-4cb9-9581-5107ed5043b6))
+    (pin "2" (uuid a4aa7ede-c3a3-41b2-a8b3-7de4bdeb4cac))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3527,10 +3527,10 @@
     (property "Mouser Testing Price/Stock" "" (at 96.52 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid e28d4ed2-3944-4b79-8421-db338ab29bb5))
-    (pin "2" (uuid 98bd6bd8-e3aa-4b53-a71c-e59f6af1ac2f))
-    (pin "3" (uuid 1951043e-15ac-43d2-afe7-25f95d43a990))
-    (pin "4" (uuid 7b6ed8f9-2964-4a44-8b49-0d24d29b65e6))
+    (pin "1" (uuid c298b6e7-bffc-4187-85b0-81c34899ad3e))
+    (pin "2" (uuid 477072a8-72f1-4a00-8f71-d22d1eafd703))
+    (pin "3" (uuid 6be1fa8c-186b-463e-948c-cb821bb59078))
+    (pin "4" (uuid 4336965c-9940-45ae-a40a-4f47cf7dcd65))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3561,8 +3561,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 129.54 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 083ef267-3c20-4594-894f-d37568e85d88))
-    (pin "2" (uuid e145080b-16ae-4cd4-a013-4d577983c38e))
+    (pin "1" (uuid 1027116c-cc6d-4b1a-91ee-f9f233e2e450))
+    (pin "2" (uuid be05c822-f326-4d5a-a4ad-91058aef7cbc))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3593,8 +3593,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 205.74 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 398db373-05a5-4cfc-8952-a0cb1bf4fe74))
-    (pin "2" (uuid 68342f50-ef99-4b4d-be23-d0beb1800208))
+    (pin "1" (uuid de979503-67f2-40b2-ac4b-2b04a421f4f1))
+    (pin "2" (uuid e833a392-5d9b-4b95-ada9-bfe3d8803393))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3625,8 +3625,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 27.94 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f6f21cd6-2aca-47de-9375-76479297d1d6))
-    (pin "2" (uuid 820fb3ba-d4fe-4e67-b9b3-a32becb4e87f))
+    (pin "1" (uuid 9b761444-c219-4565-8827-d446fec9e7e1))
+    (pin "2" (uuid acf9634f-cf33-415a-b276-be5a06b9fd8f))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3681,10 +3681,10 @@
     (property "Mouser Testing Price/Stock" "" (at 160.02 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 7709b04a-fde7-4283-a8d1-39576799b8d7))
-    (pin "2" (uuid 23e708b7-7970-4ab5-acb0-3b0af5a1b48a))
-    (pin "3" (uuid 8cb5b8dc-e225-4913-8b75-9722b2b482e5))
-    (pin "4" (uuid 469c3629-e0aa-4b99-9c53-8393362b5ea3))
+    (pin "1" (uuid 087d3a87-68fd-494f-8e27-d6685bdc7f1d))
+    (pin "2" (uuid 05354cd2-5f1f-4d47-99fa-6a31cf573e32))
+    (pin "3" (uuid 152ad4e0-42c5-4bc6-990f-a0ed016b620a))
+    (pin "4" (uuid ab335256-9143-44fa-830a-62feebf01b69))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3739,10 +3739,10 @@
     (property "Mouser Testing Price/Stock" "" (at 210.82 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid d84ae681-a045-4cc4-8f5c-4ccf31a95b34))
-    (pin "2" (uuid 8cca952f-2f75-4f70-ae41-f26afbd73315))
-    (pin "3" (uuid a538b992-3ebf-4dfb-a44f-03d0b09eee78))
-    (pin "4" (uuid 5fe1e4dd-0cb0-4d07-8152-cb99abba2090))
+    (pin "1" (uuid 4c187dca-7e20-4363-b03b-3f590686a693))
+    (pin "2" (uuid b8c71471-d7c3-4300-96db-3a627cb0b780))
+    (pin "3" (uuid 1c27465e-995b-4b15-a77a-7a5fba70787f))
+    (pin "4" (uuid 8f9c177d-760e-4de0-a936-28434d6e4324))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3773,8 +3773,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 78.74 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 61325689-e5e6-41a2-886a-a8505ff66270))
-    (pin "2" (uuid f45ddd00-5cd8-4f03-a3f2-db7088a73109))
+    (pin "1" (uuid c94f9ccf-13f1-4c9d-876c-b40883575787))
+    (pin "2" (uuid 8d597e04-676b-45f1-89a4-2450473891ef))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3829,10 +3829,10 @@
     (property "Mouser Testing Price/Stock" "" (at 121.92 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 35425a1c-56de-4041-9b59-af517b0b9b9d))
-    (pin "2" (uuid 457a1acc-a302-4766-9e26-9337ca7df97e))
-    (pin "3" (uuid e56b6094-c266-4c38-b57f-685b8e25ce66))
-    (pin "4" (uuid 5372ebf0-f20e-43a7-83d9-82e28b1845b5))
+    (pin "1" (uuid 712b9777-99d2-4b0a-aecd-209600e76e85))
+    (pin "2" (uuid e34ff0b9-306f-43e8-aaea-31feb0638d7b))
+    (pin "3" (uuid 910a819a-2c20-4301-843e-050af535d574))
+    (pin "4" (uuid baaa903c-898f-494b-96f7-f0f86d35c220))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3887,10 +3887,10 @@
     (property "Mouser Testing Price/Stock" "" (at 96.52 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid dd43be9b-e301-44cc-97a2-99dfc910b6a0))
-    (pin "2" (uuid eb873aeb-dd64-48ea-8dbf-251beb97f885))
-    (pin "3" (uuid dcc3490f-1844-467e-b3c0-18157828f2f3))
-    (pin "4" (uuid 36e0ad16-5378-43bd-ad33-94145025d935))
+    (pin "1" (uuid 6950366c-81d0-429a-b670-ea87cc7c0097))
+    (pin "2" (uuid fb1f30a2-a56b-4508-bd9b-85347afd60d4))
+    (pin "3" (uuid 7c3ca4d4-137e-43e0-8295-ff75480909f2))
+    (pin "4" (uuid c6121380-d455-4efc-9675-a81a867d32a8))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3921,8 +3921,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 104.14 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 49141942-a62c-4c2c-9703-f1bb8596504b))
-    (pin "2" (uuid 7b2a11a2-b8b9-47d2-8f78-f636e5f455df))
+    (pin "1" (uuid 45a70be1-85ac-41e3-b64a-c34c5d108993))
+    (pin "2" (uuid b2eead3d-0a1c-4f68-92dd-06a578540989))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3953,8 +3953,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 193.04 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a38c24c5-a61b-4c34-a30c-a47bacea7271))
-    (pin "2" (uuid 9484dfa0-ae88-4383-9e43-8850b32ecd6a))
+    (pin "1" (uuid c3eae80c-103f-4f57-953e-802614255e0d))
+    (pin "2" (uuid db1a4d2a-59f8-4c75-a2d7-d56ffecd18c3))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -3985,8 +3985,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 116.84 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 68f41f48-7ba7-4180-9ad3-c508452e9f90))
-    (pin "2" (uuid b56048f0-4255-4902-b5cb-1bdf0f920ab9))
+    (pin "1" (uuid 0126e0d5-8993-4f7e-a81b-2395b406d15a))
+    (pin "2" (uuid fdc31ca6-64be-4d13-993c-52f1f3bd6a74))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4017,8 +4017,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 218.44 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7e8e3c64-5fa7-42c7-9a00-0a11437b71cb))
-    (pin "2" (uuid 5558019c-1b40-4286-be20-39ae0e54d602))
+    (pin "1" (uuid 2364afdc-af84-4ab1-8d81-7e3c1ac7f869))
+    (pin "2" (uuid 7e50e85e-bab1-47b2-8734-70a6c15504be))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4073,10 +4073,10 @@
     (property "Mouser Testing Price/Stock" "" (at 134.62 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 63ca0f0e-f585-4531-8133-fc2ba6950232))
-    (pin "2" (uuid 7d22d654-9b9b-42b1-8d4a-d05765b6e737))
-    (pin "3" (uuid 5b2252ec-d51a-467d-b5a1-4f0abaeaf83b))
-    (pin "4" (uuid ccd1856e-1f39-4c66-b760-864ffab1a99f))
+    (pin "1" (uuid aaba68b2-5774-429d-bf2f-d308eafa9940))
+    (pin "2" (uuid 3ef6b7c0-3c39-441f-8925-cfb930421664))
+    (pin "3" (uuid bde0e81f-e6e7-45fb-941b-29f1fa94ec1f))
+    (pin "4" (uuid 5c475cfb-e9d4-4798-ae8a-2141fdf2a265))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4107,8 +4107,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 66.04 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a3b15eb1-114d-4461-a07d-592cd03e0252))
-    (pin "2" (uuid 157dc8f0-0ed2-48b9-a9f2-4c3532060b01))
+    (pin "1" (uuid c3e6ac91-6d5b-44f8-a26b-b0c5ffb6cce9))
+    (pin "2" (uuid eaec4ba0-15bf-489b-9d47-3a2c7a7d3422))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4139,8 +4139,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 167.64 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6385c3e6-85ea-4abd-b076-8671d7f2246b))
-    (pin "2" (uuid c8116d63-e219-45c6-bea5-45329764a3d1))
+    (pin "1" (uuid 69f28ae7-97e7-40bc-9d2e-cf409c77a38b))
+    (pin "2" (uuid a1305ad1-3054-47a2-8ba3-11e3deb90fa2))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4171,8 +4171,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 129.54 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 78211077-64d8-4d45-8416-a517031152d0))
-    (pin "2" (uuid b01542a4-b104-4e8e-8d82-70524984fab0))
+    (pin "1" (uuid 6581428a-2d21-4a74-ab7e-b7ecf07189b6))
+    (pin "2" (uuid 19a4ee57-f47e-48eb-9fd9-ee179a172259))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4203,8 +4203,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 104.14 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1073ef21-fe5b-4b58-94aa-cadb5a8cfd3b))
-    (pin "2" (uuid dfb99b41-62ee-4c80-b949-0956327b33db))
+    (pin "1" (uuid b9ef76fb-a6e2-4375-b75a-3ca51722cdfc))
+    (pin "2" (uuid 3549a60d-4bed-42f1-b22b-1c39a3b9dfa3))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4235,8 +4235,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 53.34 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4d1fef33-ae42-46d9-9926-46678ed7ec40))
-    (pin "2" (uuid 572f3534-e61e-43ed-b14a-f4dc95194d09))
+    (pin "1" (uuid c865c6ef-0aab-430c-8d13-1fc428eca3b0))
+    (pin "2" (uuid d58a5f75-b4a9-40d9-80e2-3a78b15d020f))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4267,8 +4267,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 180.34 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 956d6961-dcb0-45c1-a74e-75825b7a1299))
-    (pin "2" (uuid 0c4d0f17-a922-4b75-9e10-531fc5f0e92f))
+    (pin "1" (uuid a1adc17c-d8b5-4615-9d05-312e79ce0396))
+    (pin "2" (uuid 3ed000a8-6fe0-44cd-8bad-576b5c880f81))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4299,8 +4299,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 167.64 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7f2ac7e3-e2d8-4f8f-9ee0-ebb8fa5ad96b))
-    (pin "2" (uuid 69dd94b2-6515-4c78-839d-e2dbb2686ba9))
+    (pin "1" (uuid 19bd4965-2e01-4907-8e73-ef13fc908b30))
+    (pin "2" (uuid b813a289-036e-4ecc-ac52-11fad383135a))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4355,10 +4355,10 @@
     (property "Mouser Testing Price/Stock" "" (at 109.22 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 0f5197aa-abf5-4ceb-9a26-03a2fa2edb9c))
-    (pin "2" (uuid 8053b6d2-0438-435d-ba29-a0c25835ff79))
-    (pin "3" (uuid d00c388e-5d86-4298-ad84-0f188de94685))
-    (pin "4" (uuid 14109aaf-d666-4c5a-ae16-a101005af49e))
+    (pin "1" (uuid 476c4be1-97c1-4d78-a8e6-fef58acbf67b))
+    (pin "2" (uuid 61263dae-fdec-4c2c-8e59-2028b70340f6))
+    (pin "3" (uuid 76d39c32-2e00-44d2-8fc8-f35d261bc80e))
+    (pin "4" (uuid ea2f2e24-a758-486d-b872-47a978006e15))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4389,8 +4389,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 154.94 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f9100c8b-bd98-4a0c-a465-5ca6aa59a5c0))
-    (pin "2" (uuid f73561d7-affe-47b2-9b49-e7603125ce01))
+    (pin "1" (uuid c0230a28-120b-435f-8a3f-9da5496e924c))
+    (pin "2" (uuid b5336f41-4907-49ab-97ad-ac2b99cb9bb8))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4445,10 +4445,10 @@
     (property "Mouser Testing Price/Stock" "" (at 236.22 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid ea949c8a-c4e5-41d9-beb6-f9d35981c876))
-    (pin "2" (uuid fcc765f6-3be7-4850-93b3-558f7685fb0d))
-    (pin "3" (uuid d17e4816-c99f-421c-8e67-95cf0fa5311b))
-    (pin "4" (uuid 55dcc8ca-e8f4-4651-ad6c-de60f8bede3c))
+    (pin "1" (uuid 40c0110e-1814-4193-a08a-9d26c426b1af))
+    (pin "2" (uuid e768e14a-74bc-4f65-9806-a55ee1b3c84b))
+    (pin "3" (uuid 88470637-9f4b-46f4-a30a-834b01d26125))
+    (pin "4" (uuid bedd3080-8068-473c-949b-0b5b27b5d8ee))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4503,10 +4503,10 @@
     (property "Mouser Testing Price/Stock" "" (at 185.42 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid b608de08-8fd7-41d2-8dbe-3aa9d1a5806e))
-    (pin "2" (uuid 45658aa5-9db4-4f24-843b-0a0f580e5225))
-    (pin "3" (uuid f77ceaf3-ecf3-4051-be5f-9adfa0ea0ad7))
-    (pin "4" (uuid ab8ad0b5-3967-45bb-b8fb-d9fbdaf12d3c))
+    (pin "1" (uuid fe5862e7-b1d9-4ef6-8836-d4f1d3501b8d))
+    (pin "2" (uuid 505f52e8-6123-4d5f-8521-7c694180a5da))
+    (pin "3" (uuid a7904ced-a599-4630-a21d-3372c22aaacb))
+    (pin "4" (uuid 3738f6ba-8a2b-4d78-80d4-93414ee0009a))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4537,8 +4537,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 142.24 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 10cf13e0-4304-4036-95c0-616ebde881c1))
-    (pin "2" (uuid b120e2cf-c85d-468b-88f6-ebc79f008199))
+    (pin "1" (uuid a5d48f18-d1d5-45ab-ade1-4949f7eaba06))
+    (pin "2" (uuid 7b725513-d342-4921-a760-8650aea6b3b9))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4593,10 +4593,10 @@
     (property "Mouser Testing Price/Stock" "" (at 147.32 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 5e3f89ae-3c6b-4f87-b97a-cd935fd612fa))
-    (pin "2" (uuid c0cd0098-1efe-40e3-838e-c6344eac21c8))
-    (pin "3" (uuid 2357c4e4-8578-47fd-a3a7-f3d9010fd3f3))
-    (pin "4" (uuid 6af6732a-fd63-4c4f-98c3-305829d4ea31))
+    (pin "1" (uuid 79b93677-d87f-4df7-8565-9258ffc1c030))
+    (pin "2" (uuid 8e824899-b11f-4c5f-b246-be5a8af0becb))
+    (pin "3" (uuid b5ced11d-a649-4760-8f56-4962682e7b36))
+    (pin "4" (uuid 72b09055-81ca-417d-8e73-c6d3f44a6d34))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4651,10 +4651,10 @@
     (property "Mouser Testing Price/Stock" "" (at 71.12 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 7aaa0015-4e43-4091-ac27-c28ac75964dd))
-    (pin "2" (uuid 25dc1bcb-39ba-410b-b1fd-363fb866840c))
-    (pin "3" (uuid 2f5a484f-4f25-452c-90fa-d1cc38fc9c48))
-    (pin "4" (uuid d327eda3-98ee-406e-9767-110f3d555fc2))
+    (pin "1" (uuid 81843591-b0e0-4875-8c49-6d853af91f3e))
+    (pin "2" (uuid eb91feed-f342-4e09-ada8-a6da012b90e6))
+    (pin "3" (uuid b910a830-4adb-46c5-afc3-3e8946c0d96a))
+    (pin "4" (uuid ac6aaf84-3d8b-4fc5-8279-0ebee8d9aa92))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4709,10 +4709,10 @@
     (property "Mouser Testing Price/Stock" "" (at 185.42 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 81f486b0-6c1d-4d63-a7d4-69c19c02e273))
-    (pin "2" (uuid cc9c0709-a15c-4c94-b564-f194ab881afe))
-    (pin "3" (uuid 32ba1947-f02d-4615-902c-2e11056d8f43))
-    (pin "4" (uuid 53146d99-cfdc-4c2d-89ba-6e7a4f0a6504))
+    (pin "1" (uuid 5dcc8eb3-49a1-4f09-a8d5-c7dcd90804d0))
+    (pin "2" (uuid 596800cf-9b7c-41a9-aa6f-d2a1a050578a))
+    (pin "3" (uuid dcd5adda-7c36-402f-b64d-c02fc44ba2c6))
+    (pin "4" (uuid b99390b4-9f02-4c44-b6de-9e082bb36e2f))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4743,8 +4743,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 218.44 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9c5da94f-16a7-44be-93e1-d0953b4415f7))
-    (pin "2" (uuid d8b86457-8d2d-4952-ab2c-890b15342634))
+    (pin "1" (uuid feefa3fe-55d6-4000-a994-5f9e3fe8e13c))
+    (pin "2" (uuid 7e49db18-3272-4c70-99c7-448b5640606a))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4775,8 +4775,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 40.64 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b547627e-9e98-4c43-8826-3988e9cce94a))
-    (pin "2" (uuid 6e5fa4ed-ae1a-4113-bfea-8dc3f699e2c5))
+    (pin "1" (uuid 0bc54b73-869d-463f-ac95-4e6363fe1322))
+    (pin "2" (uuid bc1562ec-abfd-455f-8c09-920cb37c31f6))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4831,10 +4831,10 @@
     (property "Mouser Testing Price/Stock" "" (at 58.42 156.21 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid dd61a1ee-f8c3-4518-8388-b43b23354393))
-    (pin "2" (uuid 2992df5f-8997-4ed2-9dc7-9344856007f8))
-    (pin "3" (uuid 74b7279f-870b-4b8f-aed6-07b75919df82))
-    (pin "4" (uuid 87202f2e-fd9c-4a6c-85e3-18fb21653ddc))
+    (pin "1" (uuid d2a4b343-7430-4468-911d-3d7d082c3e7e))
+    (pin "2" (uuid 76383fd2-571b-406e-a58a-bdffb647c225))
+    (pin "3" (uuid 81508adf-281a-488b-b5b4-186e1b2023df))
+    (pin "4" (uuid c6a63f32-e59b-47fb-acef-0d32a1346070))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4889,10 +4889,10 @@
     (property "Mouser Testing Price/Stock" "" (at 96.52 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid b89d1b74-c3cf-44e3-bc96-274c09c40315))
-    (pin "2" (uuid 8619d1c0-daaa-4a52-8d2e-950c41ba0750))
-    (pin "3" (uuid 04a7f881-2fa5-4214-8694-bc08341e17aa))
-    (pin "4" (uuid f49918da-b729-4969-8af6-a3e587d81c07))
+    (pin "1" (uuid fec9295d-a4fb-4a96-9062-61e9673e746b))
+    (pin "2" (uuid e367a725-2edb-4158-9ac0-52252909805c))
+    (pin "3" (uuid 9e0f6b58-6c23-4c36-a3e3-7cb655437011))
+    (pin "4" (uuid 93a013d5-bb9f-4600-8285-e1ec17257c66))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4923,8 +4923,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 129.54 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1c1d84de-49d7-4197-ab4d-dde1e20e3cd0))
-    (pin "2" (uuid 94418c22-a990-4557-b83d-4a218354ed67))
+    (pin "1" (uuid d4241b67-46e3-4e4f-987e-8260352c079c))
+    (pin "2" (uuid a6e8bd69-3aa6-436c-81ac-1acb3b4be946))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -4955,8 +4955,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 142.24 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a15d26fd-e715-487c-972a-b81b790d5cec))
-    (pin "2" (uuid fc448757-c7ae-47f0-80c4-0318e37f24d7))
+    (pin "1" (uuid f61cbc54-68b2-4b21-99e0-95b0491d17cb))
+    (pin "2" (uuid 1ac1b8bf-73c6-4ce1-afc9-1e51c5b1b394))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5011,10 +5011,10 @@
     (property "Mouser Testing Price/Stock" "" (at 109.22 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 9c683cfd-fe22-4ab7-9400-15ece5559027))
-    (pin "2" (uuid aefcec3b-94b5-47a6-8036-945ccbc9e5fe))
-    (pin "3" (uuid 26974edf-3650-40b4-b7ba-c5ff1ba9100e))
-    (pin "4" (uuid c113436e-b3c7-4ce3-bdd6-d11f0d925050))
+    (pin "1" (uuid f455f7ee-5fa9-4739-a9f4-692870d8f04b))
+    (pin "2" (uuid b7f9e4e3-0f4d-4835-be64-77d0754c8330))
+    (pin "3" (uuid 58548337-5134-464e-8007-22aa10dde64f))
+    (pin "4" (uuid 9c1ec0eb-ad4e-44a5-b457-6d4c4f49e0a3))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5069,10 +5069,10 @@
     (property "Mouser Testing Price/Stock" "" (at 160.02 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 15f85168-3b78-4ba8-818d-93ecb5402b89))
-    (pin "2" (uuid e233552b-1c88-4378-aa6e-eaad3689decb))
-    (pin "3" (uuid ae4d81fe-25dd-4336-a62a-1522efa1edae))
-    (pin "4" (uuid 488631e0-197f-4bb6-a28b-d95f7a3a265a))
+    (pin "1" (uuid 501714b8-c4f7-463c-b9db-169acfd8319a))
+    (pin "2" (uuid b1eabaae-d0c2-49ac-b3ed-af3a6c568af9))
+    (pin "3" (uuid 29c18618-c657-4f54-b6fb-32c473bf2870))
+    (pin "4" (uuid aa8ea39e-e22a-4460-bcac-0e9a465658a9))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5103,8 +5103,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 104.14 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8afdb0cf-ad10-4026-b48b-f4e7c181f163))
-    (pin "2" (uuid 0fb818f0-0461-4816-b302-e5ce80e91a9e))
+    (pin "1" (uuid 8d22a875-cab1-47e0-a71b-eb3ba1426faa))
+    (pin "2" (uuid a80e3dc1-ceb7-45b7-b293-35b05d4355f6))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5159,10 +5159,10 @@
     (property "Mouser Testing Price/Stock" "" (at 172.72 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid fdbe4870-ccff-4fe1-94c8-64d7b0c465f2))
-    (pin "2" (uuid 4ec9c10b-998d-4766-8a15-6cf056e061c3))
-    (pin "3" (uuid f13b9c0d-7dbc-457c-868b-742ddbc3c0a6))
-    (pin "4" (uuid 8d87122d-2caf-4f87-9fd9-d6d89298946e))
+    (pin "1" (uuid c29dae00-4be6-404d-aa27-12c062eb0c0f))
+    (pin "2" (uuid 81500e2d-7fb4-4219-9a32-9a22b3fd69c6))
+    (pin "3" (uuid a2997826-3a05-4cce-8e91-26bfe98c6635))
+    (pin "4" (uuid 86f3fade-5011-4eb9-acd5-6619cb2dc271))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5217,10 +5217,10 @@
     (property "Mouser Testing Price/Stock" "" (at 248.92 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid e5f16c57-2022-433e-8019-4bc584ad078a))
-    (pin "2" (uuid 228fcd82-ab4c-43ec-9d38-41523ca84a60))
-    (pin "3" (uuid 8ee0d4d8-c92d-42c4-9803-3fddc19c7c38))
-    (pin "4" (uuid 0294169b-86a9-40d6-903a-eba1283e577b))
+    (pin "1" (uuid 6b61111e-c019-4639-95ce-940303c06eda))
+    (pin "2" (uuid 12581e13-3c96-4f49-9c1e-b42fd2e48e01))
+    (pin "3" (uuid 7ced0040-99eb-4809-b860-efa78996cf8d))
+    (pin "4" (uuid d9e568ea-ace0-403c-8809-a663d6dbdba4))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5275,10 +5275,10 @@
     (property "Mouser Testing Price/Stock" "" (at 58.42 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid e99b3be3-0293-4895-a607-6c88271e5568))
-    (pin "2" (uuid 53cb3a46-aab5-4c25-9516-2e5b87d4550d))
-    (pin "3" (uuid 5a80fee7-d696-4974-ab31-b3b915b4cf9e))
-    (pin "4" (uuid b6c1d43c-2de2-43ca-8854-b38f305ea670))
+    (pin "1" (uuid 57107946-c6db-43ef-bd17-d0e863f9e780))
+    (pin "2" (uuid 51347acd-00f8-4767-8916-43c601214a1c))
+    (pin "3" (uuid df8dc747-c675-43e9-b4c7-c4775b5f1086))
+    (pin "4" (uuid 200cc077-725f-4b58-b0d3-014de84b159a))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5309,8 +5309,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 154.94 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 11aa2e00-172d-47f0-bd9a-81f95ad4ea6e))
-    (pin "2" (uuid a5438864-0a4e-4dc3-abea-be954218a485))
+    (pin "1" (uuid c47a4152-2774-44b8-bb2a-02a081aa30c9))
+    (pin "2" (uuid c42534a9-bc38-4224-9e0e-e5f783fb33e8))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5341,8 +5341,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 53.34 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 70253213-170f-4a27-878e-8786e6b1fff8))
-    (pin "2" (uuid cf745c31-bc52-4cb5-aae8-c6cf1768a08d))
+    (pin "1" (uuid 8a659e28-78b9-48ef-8c54-d98a8ff86f4a))
+    (pin "2" (uuid fc7563f4-6dea-4604-9120-ee73b6df8778))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5397,10 +5397,10 @@
     (property "Mouser Testing Price/Stock" "" (at 147.32 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 7a903a54-96eb-4c9f-80d5-74f2e8f46879))
-    (pin "2" (uuid 0b2015dc-4441-4b5d-b8b3-8af63ae02daa))
-    (pin "3" (uuid 9e0fd333-ef19-4ba0-89a8-9758c43145ee))
-    (pin "4" (uuid 72c07faf-ec1d-4d0d-93bc-514c5c32eab9))
+    (pin "1" (uuid 0622b4b8-2e7b-440d-bc14-a6ee2bfb9193))
+    (pin "2" (uuid 3a5cbac8-98b9-47cc-91ae-297d76dc71bb))
+    (pin "3" (uuid bfeb9785-c717-41c8-a2e7-38ae7d0b8779))
+    (pin "4" (uuid d75f823c-7555-4875-bc6d-221443d24d1f))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5431,8 +5431,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 40.64 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ad541174-0260-4e63-8ebf-b91b2b60dea7))
-    (pin "2" (uuid a4c1bae0-6be7-4cbf-8f93-2e11f8d86fd1))
+    (pin "1" (uuid 9609a147-6f0f-458d-adbc-40eec4e39354))
+    (pin "2" (uuid 57bb9b44-8a77-4813-9050-3c6db5436d29))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5463,8 +5463,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 167.64 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 983dde73-e195-4c5a-a162-1be93e41c355))
-    (pin "2" (uuid 0cab2443-9bff-4f09-8ef2-b345e0b266ce))
+    (pin "1" (uuid 2f1645d1-73db-482a-b37f-5a802babcf0b))
+    (pin "2" (uuid 90de4eda-008e-4b3e-ad26-d4070cbf6865))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5519,10 +5519,10 @@
     (property "Mouser Testing Price/Stock" "" (at 71.12 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 2e48f0e3-9790-471b-b3ff-1b84b1694351))
-    (pin "2" (uuid 203476b8-2730-435f-83cc-c74b51d6685a))
-    (pin "3" (uuid 602cd3fd-ff9d-4cbe-99ae-29e898d00317))
-    (pin "4" (uuid f4b7ea1f-f038-4a3e-bc39-9322f8bdb71a))
+    (pin "1" (uuid 8cbd1e4f-2a1c-4fd9-8828-bb6fed37976b))
+    (pin "2" (uuid 6815cc75-78cb-4b23-a022-7e3b8f0c3721))
+    (pin "3" (uuid 17688fbd-21c1-46bf-bc0b-b09ad94c237e))
+    (pin "4" (uuid 5fcd427c-c942-4b95-8dfb-267c867a6fcf))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5553,8 +5553,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 27.94 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d2798f04-81c1-4e9c-bb75-8478547e350c))
-    (pin "2" (uuid 3720d829-9448-488c-a5a3-e7e1edd1efcf))
+    (pin "1" (uuid 70e21bdf-8f33-4c4e-a024-91a41c60ef5b))
+    (pin "2" (uuid 57c163ca-0631-4c2f-8589-2976634353fb))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5585,8 +5585,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 142.24 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e59eded1-7139-45e6-90b3-30feedcd09d9))
-    (pin "2" (uuid 43c0a5c2-35c5-42d3-9e5d-6169c830c869))
+    (pin "1" (uuid 96c5a895-1cff-4779-8020-e693fb41f9d0))
+    (pin "2" (uuid 8689bebc-c9cc-4d7e-a678-1794b8992f99))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5617,8 +5617,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 91.44 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 865effb3-c62f-4a3d-8cb7-842b36ee82c3))
-    (pin "2" (uuid ab0edda1-1909-4144-8579-9af0eb1a6daa))
+    (pin "1" (uuid 6cb4450e-6b88-4254-aad4-e1c382c7da05))
+    (pin "2" (uuid 0ed7ab5a-939f-4f42-ba03-86c7f1c9e3ca))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5649,8 +5649,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 91.44 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6f69f717-baa9-42a9-b2c2-dc114608d1b6))
-    (pin "2" (uuid 46ceecbd-cd0c-49f9-bcc2-b8483e34b34c))
+    (pin "1" (uuid f5b0164f-5278-435b-9dad-d52eaebc9d57))
+    (pin "2" (uuid a8b508ef-8132-4f75-8b66-f03c6f0d4612))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5705,10 +5705,10 @@
     (property "Mouser Testing Price/Stock" "" (at 71.12 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid e2cd02ef-18f8-437f-b9b5-06d08054a1a1))
-    (pin "2" (uuid b0819296-19cf-40c9-a38a-e69c98e56f9d))
-    (pin "3" (uuid a1165574-e66a-4da9-82ca-f5e4767de54c))
-    (pin "4" (uuid 70df35de-5aa0-464f-ac25-6cd8d89b8f83))
+    (pin "1" (uuid 51de9117-e828-440d-81ad-10d48bc34a95))
+    (pin "2" (uuid 6bf4ba79-8850-4fa7-9d95-ae3593247b7b))
+    (pin "3" (uuid 73b5a2f3-b6b2-4f04-9c7c-0ab60749b0dc))
+    (pin "4" (uuid a91eaeac-257a-4f03-8f82-8b47111f2b4b))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5763,10 +5763,10 @@
     (property "Mouser Testing Price/Stock" "" (at 109.22 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 4a7551d5-ea40-4035-a03e-3edfc8eec80b))
-    (pin "2" (uuid 9197570c-d1ff-42ba-b34f-cba81e0da4c3))
-    (pin "3" (uuid e0fb8b26-7eca-42ff-a836-7ee8fa24cca2))
-    (pin "4" (uuid 0570ccd5-4587-448d-b820-9071be4cb05c))
+    (pin "1" (uuid 37f133bd-cb2b-42dc-b100-5a0036fdfba9))
+    (pin "2" (uuid f2e239fd-31de-40d5-aaee-fd235f833c74))
+    (pin "3" (uuid 7b7c6f11-a689-4800-94e3-886ec73c668d))
+    (pin "4" (uuid 7f39bec4-e709-4a20-b1fb-029adbbf634e))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5821,10 +5821,10 @@
     (property "Mouser Testing Price/Stock" "" (at 147.32 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 0ebd9f6e-ca05-47a0-8510-1a52d302bb7c))
-    (pin "2" (uuid b709d0ab-859c-44ee-9947-4ee98fbb4c20))
-    (pin "3" (uuid 43399d27-7f67-4edc-9ec0-7c8646150456))
-    (pin "4" (uuid bb12e18b-5c28-4d4f-a293-58d7c8fb191f))
+    (pin "1" (uuid 026f64f4-bc28-4064-a08e-2a0b5ecf19a4))
+    (pin "2" (uuid 70c94f6e-45be-4da8-8b82-763426be4af5))
+    (pin "3" (uuid 87101b5b-b6eb-402f-903b-089e1ee614ce))
+    (pin "4" (uuid be672806-28ec-4386-8d4f-d1fdec8e343b))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5855,8 +5855,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 116.84 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bc90c75b-58fe-49e9-b7db-8d3ed9704cbd))
-    (pin "2" (uuid d5b5ff7e-e616-43a8-a5a1-65585ece0599))
+    (pin "1" (uuid 7878290c-5d76-4c89-8b59-3ebe1f11b63a))
+    (pin "2" (uuid de8c00f3-2ed7-4b35-a819-f2dcc8c4e3f4))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5911,10 +5911,10 @@
     (property "Mouser Testing Price/Stock" "" (at 160.02 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 23777f46-7d67-442f-a270-0deb0358d273))
-    (pin "2" (uuid 66b34a59-4cfc-4db1-8a28-865b1d07fac2))
-    (pin "3" (uuid d4d7e644-971a-4cc9-8e3c-a15829c2c9f2))
-    (pin "4" (uuid 3f9c7c00-ecef-46ac-821b-8ef45364df88))
+    (pin "1" (uuid dfa07d61-ad6c-4455-ac5d-0acdfe146363))
+    (pin "2" (uuid e5e8ead5-3094-45a9-9223-dcc66355897f))
+    (pin "3" (uuid 50c69018-592f-4fec-a327-e538f08e305b))
+    (pin "4" (uuid b6e60704-9215-4934-a95a-70b600f5bad3))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -5969,10 +5969,10 @@
     (property "Mouser Testing Price/Stock" "" (at 198.12 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid c725a722-5d3d-4f31-8899-58d49396b288))
-    (pin "2" (uuid 7ebb7615-23de-4ca1-8745-93cd2bb2aca7))
-    (pin "3" (uuid 468fea85-cfee-421b-a066-22680f142402))
-    (pin "4" (uuid 90ca9a2d-ddbf-464a-932c-f4c71cb8a2d3))
+    (pin "1" (uuid f7cc6836-551f-4a3b-a54e-2a51c8f91ec7))
+    (pin "2" (uuid 6d8f9567-77d3-418b-82cc-7c3e3d263997))
+    (pin "3" (uuid 99529347-7e77-4f1b-9e24-789ed5f6a899))
+    (pin "4" (uuid eab3e457-1fd5-493d-bccb-a509ba73c69b))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -6003,8 +6003,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 78.74 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0dc8f161-a365-40ff-85ce-f2883a3dbb67))
-    (pin "2" (uuid c4c0e003-3132-4c43-b4ad-47f6fa92807d))
+    (pin "1" (uuid 93091c49-e9a7-416e-a169-dffaf4de5a1b))
+    (pin "2" (uuid b3723a80-e21a-4145-b0af-931e59f44601))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -6059,10 +6059,10 @@
     (property "Mouser Testing Price/Stock" "" (at 134.62 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 9357697b-e7cb-4755-8143-50500c6f3fcd))
-    (pin "2" (uuid f91cb3f5-eaa9-4527-9ba0-16b1d1abfc78))
-    (pin "3" (uuid 35cb35b5-dcc2-48e1-8c6e-8a84a3d39832))
-    (pin "4" (uuid 7ff2e683-ee61-487d-8992-0730d60e407f))
+    (pin "1" (uuid 5472446e-a275-43eb-8299-6b10ac0b1644))
+    (pin "2" (uuid 50efd4d4-edbe-4065-a6bc-09ac5cccace4))
+    (pin "3" (uuid bf478a4f-24bc-4c2c-a331-729daabf5b92))
+    (pin "4" (uuid 5a097f35-3afa-405d-9f6e-37fef3454469))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -6117,10 +6117,10 @@
     (property "Mouser Testing Price/Stock" "" (at 185.42 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid c8604da9-bd49-4bd4-b0d8-39c3dff87a18))
-    (pin "2" (uuid a49242d9-dcff-4903-9bfe-d078bccbacc5))
-    (pin "3" (uuid d12ef5a8-347c-4797-a193-bb530884712f))
-    (pin "4" (uuid 7852c6e8-2ab6-470e-8aaf-6f950378d6cc))
+    (pin "1" (uuid ef971ade-a651-4b49-8572-f8ca0aa12c1d))
+    (pin "2" (uuid f47b005c-cf80-4a41-9e56-c6f8af022556))
+    (pin "3" (uuid d580492b-d29e-4346-a21b-7e7ff52486ea))
+    (pin "4" (uuid ac90fa42-b260-49d1-b26d-9b29c4696799))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -6175,10 +6175,10 @@
     (property "Mouser Testing Price/Stock" "" (at 58.42 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 311de369-2f06-4ed9-9dd0-daf6c48f95e8))
-    (pin "2" (uuid b26efd25-dbc2-4a10-a2d5-ab55f81c2d57))
-    (pin "3" (uuid 81dcc637-ab4a-4069-932f-5ca19c95c146))
-    (pin "4" (uuid e1a19938-2339-437c-abed-851a39ffd745))
+    (pin "1" (uuid 95b327de-e1f0-43df-9a8d-b7e487899be3))
+    (pin "2" (uuid 7ad268ce-4e2e-4a75-ba8a-d68af348633c))
+    (pin "3" (uuid c3c51f26-c3d3-4800-a02b-23f0ad827e8f))
+    (pin "4" (uuid 94b9b486-7206-4b02-89b7-1f8cfe831518))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -6233,10 +6233,10 @@
     (property "Mouser Testing Price/Stock" "" (at 223.52 156.21 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 27965925-ef0d-440f-a8e0-08c8ce8394da))
-    (pin "2" (uuid 6f11c422-dbf6-4a02-8e64-d0f3ee92989f))
-    (pin "3" (uuid 922505ad-b266-40cf-80e2-f715368aeb3c))
-    (pin "4" (uuid 97a9a92d-13fd-4014-b018-15eed404cc86))
+    (pin "1" (uuid 0816b204-a7ea-4a93-88f4-66b19b045758))
+    (pin "2" (uuid 8a4b30a6-05b1-45e9-b310-5f12acb3e52b))
+    (pin "3" (uuid a3b52f0a-01f0-48e1-b923-0c5d5bb299d3))
+    (pin "4" (uuid 32ab2d7b-bf7c-486f-88d4-605a90bc6355))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -6291,10 +6291,10 @@
     (property "Mouser Testing Price/Stock" "" (at 83.82 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 27c695d4-2ac3-45d7-b7b9-6f19f90a88bc))
-    (pin "2" (uuid 30691fac-ed4c-4cd9-a9a2-dd462d66fc74))
-    (pin "3" (uuid e2297b6c-a759-4804-934a-6688df926359))
-    (pin "4" (uuid 77288fba-b011-402c-8a5a-d7a5fc59807b))
+    (pin "1" (uuid 6082d4bc-f87e-4884-ad0e-8d264bdc3dc8))
+    (pin "2" (uuid 600a0baf-0ff8-4a70-9871-1a5ecf06e0ee))
+    (pin "3" (uuid 207730ee-3a07-41dc-b90b-913c4b40f26c))
+    (pin "4" (uuid 8678b330-a59e-4d56-8620-825892644b7b))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -6349,10 +6349,10 @@
     (property "Mouser Testing Price/Stock" "" (at 210.82 156.21 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid a1728806-e8d7-483c-9aaa-d5ce85376901))
-    (pin "2" (uuid 789cb979-1428-4f6f-b7e5-0a358293e739))
-    (pin "3" (uuid be45c60f-8fe2-4a2f-bb21-7b4c38ecab0e))
-    (pin "4" (uuid 36d16794-3bd0-42f8-89fd-cc695207e38b))
+    (pin "1" (uuid f865da11-47d9-4453-a643-4b2410b12f6d))
+    (pin "2" (uuid a3505546-e10b-4d5d-a371-85fe4e18b519))
+    (pin "3" (uuid 1afc00f2-9789-4ef4-a4f4-5349dd57f6d5))
+    (pin "4" (uuid 3c13f5d8-af98-49c5-b96e-ee8e107abd1e))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -6407,10 +6407,10 @@
     (property "Mouser Testing Price/Stock" "" (at 134.62 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 3eeef8f2-0351-47bd-a99d-44bbe39217e7))
-    (pin "2" (uuid 47362f5b-1e0f-4372-abdf-a07d9b4b79f4))
-    (pin "3" (uuid f5f3ae1b-2b72-40ef-84c2-b901438cd23f))
-    (pin "4" (uuid 66638a4c-e9b0-41fa-b982-de69d02a86e6))
+    (pin "1" (uuid 418e4e3f-7480-4e5d-9fae-4afdc1c3cc31))
+    (pin "2" (uuid 5eb1224f-90ee-4364-b259-880860b3f00a))
+    (pin "3" (uuid 851a37cf-d789-4142-8bfc-034b77a89a03))
+    (pin "4" (uuid 5daaa0f3-b936-4511-9527-0c98fb8bce8e))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -6441,8 +6441,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 66.04 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fbed97eb-6f2d-42b2-8adf-d1ca8db3b8c0))
-    (pin "2" (uuid 4c8c85d5-86f8-4281-849c-1c523e6528dd))
+    (pin "1" (uuid 025ba1bd-9349-4074-93c5-53dfb6660b99))
+    (pin "2" (uuid 8eb2f616-f001-40c6-bbe1-282f590f0ab2))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -6473,8 +6473,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 53.34 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 72afbe77-bf53-4b17-8302-77eb11556dc7))
-    (pin "2" (uuid 62032ac6-ad96-4885-812c-010413603621))
+    (pin "1" (uuid 05ab171e-a5c5-4067-9a2c-6dbef1c513ce))
+    (pin "2" (uuid 539fb0ca-a716-4675-8891-ff1839ff726d))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -6529,10 +6529,10 @@
     (property "Mouser Testing Price/Stock" "" (at 172.72 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 5610c666-ad57-4d57-b3f9-5211e545a996))
-    (pin "2" (uuid 299242de-d1cb-4adf-83e2-aa34c4eaa413))
-    (pin "3" (uuid 5ecc5e90-d55f-4652-bcec-c4dbcf680c4e))
-    (pin "4" (uuid 16f8e04e-0e62-4091-b7b3-5bc72caf7d0c))
+    (pin "1" (uuid d6cfde85-398e-4b4d-875a-6e906ace54cf))
+    (pin "2" (uuid d5f2b2bb-b126-44f0-90c9-4c45b45a2710))
+    (pin "3" (uuid 3f15a565-f659-4a4e-bd19-937f6dbd0462))
+    (pin "4" (uuid 0cd4cc1b-d279-44db-bc28-7ecafdb66b6b))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -6587,10 +6587,10 @@
     (property "Mouser Testing Price/Stock" "" (at 198.12 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 7a4568b0-f5a2-4b76-bb25-b31a3a5a1abe))
-    (pin "2" (uuid dc3f3caf-dfbf-4a68-b56b-1db4d9613b9a))
-    (pin "3" (uuid b0fa0a7d-ca19-45ce-a3fe-8e90576149ce))
-    (pin "4" (uuid 435a74c4-ad4d-4591-888e-36e4bf52b98f))
+    (pin "1" (uuid 8fbbd420-547b-4706-bccc-79b4eebeda4b))
+    (pin "2" (uuid 41f5241f-9dda-40a6-b3cc-df1c78d850c4))
+    (pin "3" (uuid 2b963784-0e5b-4a7c-9896-dad4079f77d8))
+    (pin "4" (uuid 217e61ad-740c-49f1-ba9e-4aba92b63371))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -6645,10 +6645,10 @@
     (property "Mouser Testing Price/Stock" "" (at 71.12 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid e4b013b4-0927-43b2-8f94-a963d0987315))
-    (pin "2" (uuid be896f9d-0a63-48c7-82d8-4adcd8731cd9))
-    (pin "3" (uuid 8900dae0-a914-4fdc-a2bd-15dc60b69554))
-    (pin "4" (uuid 0ffcf5cf-7a3c-4def-aded-f9eede00f913))
+    (pin "1" (uuid a59f634c-8151-489c-a192-84ff28a1be30))
+    (pin "2" (uuid 3e6f72e8-284a-4005-badc-9a56e8a90ac8))
+    (pin "3" (uuid f38f210e-f094-4232-bab1-79bea4dd3989))
+    (pin "4" (uuid 7c3a92d2-9269-4d96-a94a-2a0030554939))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -6679,8 +6679,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 193.04 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c2d60d2d-01c3-4de5-aa73-4aada5dc7a67))
-    (pin "2" (uuid 2952c812-bdf0-476f-8b49-33a8b3f82998))
+    (pin "1" (uuid 511f16fd-a70c-4f5b-8f50-174f7059d401))
+    (pin "2" (uuid a3a7f590-0fe8-4541-87ea-5ffa4cc184d8))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -6711,8 +6711,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 129.54 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5f3ea338-faa1-433a-afd5-b0245b458e32))
-    (pin "2" (uuid 9ebdc4d4-e47f-4c86-a346-2f22f9b5a353))
+    (pin "1" (uuid 211ec124-62ce-4431-ae17-eccadeb661b2))
+    (pin "2" (uuid b9f7921e-b8f7-4c2e-a482-3521ef7459e4))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -6767,10 +6767,10 @@
     (property "Mouser Testing Price/Stock" "" (at 198.12 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 9a2e43dc-cabd-4202-96dd-7e59192d9371))
-    (pin "2" (uuid 1412aacb-e4ba-4636-8ab0-6afa92e7ae40))
-    (pin "3" (uuid 4b5bb04d-5e6d-4277-8c19-45efb9d69622))
-    (pin "4" (uuid 909674df-32fa-40a6-b92d-f4b48c43ae82))
+    (pin "1" (uuid aab5a486-b060-4a55-9a0a-bbd74fb6328a))
+    (pin "2" (uuid 1f071fbf-df99-48ac-ac47-edd0ede8546c))
+    (pin "3" (uuid b0186a09-00bc-4ccb-a86b-42e856f19f52))
+    (pin "4" (uuid d303d9e5-81f8-479c-acd9-8c140ead722e))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -6825,10 +6825,10 @@
     (property "Mouser Testing Price/Stock" "" (at 172.72 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid bda87456-c526-4723-8519-262a1681151a))
-    (pin "2" (uuid b9fb8edc-3023-4a69-85eb-6ce72bc1013e))
-    (pin "3" (uuid 3782a592-14d2-4bc5-9582-e75b0ee6b878))
-    (pin "4" (uuid 4c253e2d-7ef7-4aa3-8c8c-9483c1ed0f2f))
+    (pin "1" (uuid ca71149e-481e-4d7f-bdcc-5a3514aa944c))
+    (pin "2" (uuid 79dc49b3-24b7-4901-b4f3-4cc1183b02cf))
+    (pin "3" (uuid b684ba04-2527-45e4-86e2-cedd162b0bb1))
+    (pin "4" (uuid 9bff802c-11b5-4041-a6f5-d80eea4c2b3f))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -6859,8 +6859,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 40.64 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 24a51527-75c1-4219-85aa-3272568131cd))
-    (pin "2" (uuid 79c13a4c-1b2f-4ab7-b7ef-1df70bc7dc7b))
+    (pin "1" (uuid ad27ef4e-f3ab-4422-85c3-564772473a7e))
+    (pin "2" (uuid ff44f401-79dd-424f-ace9-461f39bd296b))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -6891,8 +6891,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 116.84 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 57f9daf4-a010-444a-8c6a-1a7899e50271))
-    (pin "2" (uuid bba0ad19-05af-4152-9e8a-9826812a49f4))
+    (pin "1" (uuid 820e0ab5-ad3c-4fea-b666-a5a8bb9daeaf))
+    (pin "2" (uuid b48502cd-efb4-4607-9667-9d610a53f81f))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -6947,10 +6947,10 @@
     (property "Mouser Testing Price/Stock" "" (at 134.62 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 23edb6b7-02de-4a2c-9a08-4e45f55413e9))
-    (pin "2" (uuid 6a4ad8c6-8d92-49d4-ae6a-f5a5f036b8e8))
-    (pin "3" (uuid 13617fb5-c7e9-4a26-8603-56c95d5ead11))
-    (pin "4" (uuid 3e4249a7-2f4c-4273-8212-15c1b531d9a9))
+    (pin "1" (uuid bdb9af8f-f038-40ce-b4b3-77db006e3c46))
+    (pin "2" (uuid af0720b5-3b67-4d37-869f-8b6744cc518a))
+    (pin "3" (uuid da6049e5-7f00-40fb-aacf-3f1492bb0352))
+    (pin "4" (uuid 321af86e-7eec-4ea1-8fec-710d9b5f554a))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -7005,10 +7005,10 @@
     (property "Mouser Testing Price/Stock" "" (at 83.82 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid ec7c2e7e-b178-4577-8bbd-61171013657f))
-    (pin "2" (uuid 0e142e65-fd18-42be-a291-a478a7a88d70))
-    (pin "3" (uuid 9963a6b5-aee3-47ca-9815-351fe54c87bb))
-    (pin "4" (uuid 69c422dc-4d52-4485-8856-22f093d90b9e))
+    (pin "1" (uuid d138bd1a-a161-4773-b575-8f151fecd891))
+    (pin "2" (uuid ed9af134-f6f5-491a-9f54-4eef3a08a050))
+    (pin "3" (uuid 08f86416-e365-4888-a628-37db916e9919))
+    (pin "4" (uuid ac60125a-779a-4b28-8648-f3f2d7c5d330))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -7063,10 +7063,10 @@
     (property "Mouser Testing Price/Stock" "" (at 83.82 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 4c90462a-40ee-471f-bca9-7851d5302b47))
-    (pin "2" (uuid a0dacfa7-d9d1-4f32-b391-2e292f21a61a))
-    (pin "3" (uuid cb95dd76-1ea5-4071-baec-232970c81c5e))
-    (pin "4" (uuid 596619ec-7e60-4947-9094-429e6143f04a))
+    (pin "1" (uuid 52eaa43c-2014-4903-aeb6-a5216b40cf02))
+    (pin "2" (uuid 07c46399-b44c-4b3a-8ce7-52f6dfce9046))
+    (pin "3" (uuid 7b2ee808-b9f2-4573-b4fb-1ee84521fdc6))
+    (pin "4" (uuid 8cef8fcd-ff97-47b6-b54f-b67bf2818af5))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -7097,8 +7097,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 104.14 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a83c77b4-4144-49a5-834e-71e6897f9e1f))
-    (pin "2" (uuid 6826030f-0546-452d-a2e2-4051a65b5731))
+    (pin "1" (uuid b5ff96e4-2206-4e85-938a-5f385d1e7ae2))
+    (pin "2" (uuid 5e9b8eb9-9817-4933-b77d-380501235c92))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -7129,8 +7129,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 116.84 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 38a2cc25-fa8b-4bc9-990f-b1099fff0f07))
-    (pin "2" (uuid d5aee6d2-f254-4cdb-8e83-459b731cad98))
+    (pin "1" (uuid 8188dfc2-52db-4a96-b5bd-79279dc8dc90))
+    (pin "2" (uuid 90503d6e-9769-4a44-a028-f03f6ec0552b))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -7161,8 +7161,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 142.24 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ab54414c-9097-49f7-bf83-8b544e93f564))
-    (pin "2" (uuid 683d80ce-1680-4125-bd28-7ba7e0e9eee8))
+    (pin "1" (uuid 6bd17605-bf78-4c70-b040-0480371cfe3a))
+    (pin "2" (uuid 44831c96-09f6-4ca0-872c-893df99fb6b4))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -7193,8 +7193,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 27.94 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3f2881e5-4395-440c-853c-ebbafa05de33))
-    (pin "2" (uuid 2e4535ff-70b9-483d-9c35-e56fdba1dc37))
+    (pin "1" (uuid 7366d173-05a6-43a1-b5fd-363fbe52ba9f))
+    (pin "2" (uuid 6534de60-7439-4315-8c9f-f7b32f1d9b96))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -7249,10 +7249,10 @@
     (property "Mouser Testing Price/Stock" "" (at 96.52 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 54d1fb23-2e29-4dfe-a3a7-3b98227996e7))
-    (pin "2" (uuid 848ada3d-ddc0-489f-a847-4c9648591f17))
-    (pin "3" (uuid 9931bd89-5b5a-4eaa-8556-8fb33c5c03b9))
-    (pin "4" (uuid 9879965f-bd3e-4157-847f-9b3869e2cc7e))
+    (pin "1" (uuid 5f4f121c-e1ce-4aa9-8dbf-91640e44dca5))
+    (pin "2" (uuid c43842cb-811d-4e1f-8434-1c5ac4763ac4))
+    (pin "3" (uuid 28793f43-ad1f-42ee-9d14-6ff2f8393593))
+    (pin "4" (uuid 6b4a33cf-aadd-4045-aa95-733146adfe1e))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -7307,10 +7307,10 @@
     (property "Mouser Testing Price/Stock" "" (at 236.22 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 5c0b5330-62a5-4664-9be1-93177d4b9364))
-    (pin "2" (uuid df66405f-817b-4092-b8bc-ad7370716b84))
-    (pin "3" (uuid dec7591c-8b30-46a7-9852-c164592d34b0))
-    (pin "4" (uuid 0ab973c9-81c4-4ac6-a320-745f327d3f42))
+    (pin "1" (uuid 4ce0b5dd-5fdb-4f2c-94df-9817e347eee3))
+    (pin "2" (uuid 62e3f089-cda2-466c-990e-5bcb4d5b67ec))
+    (pin "3" (uuid 3c11463b-8cdc-46bb-97a9-65db8fa38e45))
+    (pin "4" (uuid e4512c0d-a861-4511-9b84-2411b51d3e93))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -7341,8 +7341,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 27.94 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0e45544e-ef8f-4ef1-9428-be5c27c5d95d))
-    (pin "2" (uuid 82352e1b-89e7-4fb4-862e-45d2250131be))
+    (pin "1" (uuid e157a28d-81e3-4004-966d-fe3d67405350))
+    (pin "2" (uuid 63114a40-0cf6-45f2-8a09-02ef66a754ce))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -7397,10 +7397,10 @@
     (property "Mouser Testing Price/Stock" "" (at 198.12 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid c01919ab-e5ea-4ffd-8369-e9d867f3a247))
-    (pin "2" (uuid c6be6ede-290c-4ba6-b15b-7bb93c5542c8))
-    (pin "3" (uuid 867d051d-50e1-4e51-894d-fdb1201747b6))
-    (pin "4" (uuid 5fbb7135-bc63-401f-829d-cf63dedc74b6))
+    (pin "1" (uuid c9012b02-12ba-44e3-ab69-6e89acd91392))
+    (pin "2" (uuid e553889f-ab0a-4d17-88d7-bbb62068a048))
+    (pin "3" (uuid 3e1af622-2d6c-4a04-8cec-34df95f36249))
+    (pin "4" (uuid 7b8dade9-3e4f-4237-8902-2589695d5e92))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -7431,8 +7431,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 27.94 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid af945eb3-bb16-47ca-aefc-a938f9f8ae65))
-    (pin "2" (uuid b499e79e-6b6a-4a68-b19c-f24c0a7a673d))
+    (pin "1" (uuid 87549ddf-c288-4b26-b9ef-2061d803833a))
+    (pin "2" (uuid b97cbdd2-3909-4ec0-ae1a-41faa70b8f50))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -7487,10 +7487,10 @@
     (property "Mouser Testing Price/Stock" "" (at 83.82 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 3de981da-0ddd-41e5-9b53-bab1835b82d7))
-    (pin "2" (uuid 0a1b182e-b39d-450e-8f75-fbc14404a4df))
-    (pin "3" (uuid e6c4264b-9572-443c-9173-49672ac5fc30))
-    (pin "4" (uuid 8c9bc85a-1874-4457-a5e9-b9167da19f68))
+    (pin "1" (uuid 8b6ba05d-e676-4039-879c-7eae3d710ad9))
+    (pin "2" (uuid 15ac9b04-f73b-4375-9091-f839e7afa2a4))
+    (pin "3" (uuid 7e0a2132-762c-4f86-805a-1446294d570e))
+    (pin "4" (uuid 76f56707-9799-4ebb-ae36-7ab10fb3e0a8))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -7545,10 +7545,10 @@
     (property "Mouser Testing Price/Stock" "" (at 58.42 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid e6c2b1fc-ca1c-4fd1-a1f5-9340c9913583))
-    (pin "2" (uuid a4e6cba1-8c16-4646-8e70-5cf94cff7abe))
-    (pin "3" (uuid c61f5bf8-b8c4-43ad-b32b-2529f6cc35f2))
-    (pin "4" (uuid 77225275-6ada-4a89-975b-1d18ee4b6e87))
+    (pin "1" (uuid d3c837aa-f78e-4f7f-bc43-e9833dce04cb))
+    (pin "2" (uuid 4823681a-6281-4bb8-8c4a-2a08b64650af))
+    (pin "3" (uuid 80a8955b-d68d-475c-b64e-62e31aad1cb6))
+    (pin "4" (uuid 329e6027-8499-467e-b20c-cd2aaf49534a))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -7579,8 +7579,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 40.64 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0be2b123-c59b-41d3-9321-2aacb3072e3e))
-    (pin "2" (uuid 83728b22-cad0-4a11-b438-b37895227ffa))
+    (pin "1" (uuid bb82bb6d-1d07-4e2a-b32f-92c51e11e246))
+    (pin "2" (uuid b0987aeb-17e2-4869-bb3a-ce465c0602ce))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -7635,10 +7635,10 @@
     (property "Mouser Testing Price/Stock" "" (at 109.22 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid f20c040c-990c-406d-bd13-d0c32a10bead))
-    (pin "2" (uuid 0688ed53-fcdb-480d-9355-f83ec003fdb0))
-    (pin "3" (uuid 940b48a4-cb4b-4e88-8a5b-a5d20169ebfe))
-    (pin "4" (uuid 0cc7877b-1f9b-49ad-8bd8-4091b488275a))
+    (pin "1" (uuid 939efaf7-a2bd-4298-b333-4ec21bb6e717))
+    (pin "2" (uuid 16057ac6-f0e7-4ef6-a608-21389b7dee57))
+    (pin "3" (uuid 68c8659b-a5bc-4e98-bfb9-59b29244a27a))
+    (pin "4" (uuid 56ff74d1-4172-42a3-aeea-7a0f4288e612))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -7669,8 +7669,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 180.34 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3ba8328b-5ff6-4641-adbf-2e3b9296c8f1))
-    (pin "2" (uuid 5d7a4f7b-9e18-4fba-8b15-fd516a92dafa))
+    (pin "1" (uuid 5eb7615d-170c-43b4-8dff-59f8f2624bc8))
+    (pin "2" (uuid 19f4f11a-1618-4b56-a69d-3d7d3575f53a))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -7725,10 +7725,10 @@
     (property "Mouser Testing Price/Stock" "" (at 210.82 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid dc7223c9-b277-406f-80a2-603b7b71fc3f))
-    (pin "2" (uuid f75dfee0-f8db-4095-87d6-1b37e328880c))
-    (pin "3" (uuid 93099a39-7868-4899-8955-c175d96f28e2))
-    (pin "4" (uuid 2137b5c4-7e7f-4ca7-bc3a-329068aff1af))
+    (pin "1" (uuid d388fd17-8c10-4227-80e2-f9cafb4398f1))
+    (pin "2" (uuid 16768971-e3f1-45df-9d54-9198b5c56af2))
+    (pin "3" (uuid 64dafbdd-209a-4849-8339-8648d9290be3))
+    (pin "4" (uuid 14d4ce0f-45b8-47e3-872a-ce902d7db7c2))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -7783,10 +7783,10 @@
     (property "Mouser Testing Price/Stock" "" (at 248.92 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 1cfd4dc5-7266-4bed-9c65-eea04ccfecc5))
-    (pin "2" (uuid 6ad354b9-a376-47a1-9cd0-954c43b5f6e9))
-    (pin "3" (uuid f5ee1c93-1e37-4275-89b1-47cd5184553f))
-    (pin "4" (uuid b22cfb0d-6a65-41d6-83dd-a1c6d29164d5))
+    (pin "1" (uuid bb03fb1c-a393-4763-a7bd-8a8b42f1f981))
+    (pin "2" (uuid d8a5b65d-d51b-4b98-bd1f-0a18e38f95db))
+    (pin "3" (uuid 753cfd52-e22a-48f3-8a78-e9177801c79c))
+    (pin "4" (uuid 5f9e00e8-4e4a-4932-bea3-a5114ad1d9b0))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -7817,8 +7817,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 193.04 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1e500266-6233-4101-b98b-b6262a6f36bf))
-    (pin "2" (uuid 8ee3be01-f3f5-446f-bb4a-ad2114961437))
+    (pin "1" (uuid 07afd82e-bd5e-4947-8e40-f8e2a9ccbdf9))
+    (pin "2" (uuid 266de803-c703-48c3-ae4a-f738a15cb6a5))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -7849,8 +7849,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 40.64 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 44720fb7-4abf-4fba-9fce-5a2aea9c58b7))
-    (pin "2" (uuid 42bab5e7-f822-458a-a517-1c097e389ee7))
+    (pin "1" (uuid ec622a4c-e9be-4eae-acd2-baa77ed68840))
+    (pin "2" (uuid 37ea39e0-682f-4f45-8a7a-37237d595edb))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
@@ -7905,10 +7905,10 @@
     (property "Mouser Testing Price/Stock" "" (at 223.52 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 55ac9317-fe2b-4d4b-b85d-e47fe3ac8f8e))
-    (pin "2" (uuid ef2c5cee-fbb6-4d1e-8f21-2eca6ca1536a))
-    (pin "3" (uuid dbdc0c85-6c83-4730-9812-ddb6d3bb2fab))
-    (pin "4" (uuid c05f53e0-3529-4500-a092-771fd83889fc))
+    (pin "1" (uuid 25bc160c-902b-4225-a7c5-b30331fae016))
+    (pin "2" (uuid 0068fdef-2bcd-45a7-8f77-97bad5cf9bf9))
+    (pin "3" (uuid 7965d55d-f2bd-4b79-8ee7-57adad210661))
+    (pin "4" (uuid a4611299-357e-486a-8175-bb3cc32c6ac4))
     (instances
       (project "KeyboardPCB"
         (path "/0ddec2b6-b97f-44d3-913e-9f8ffaa22885/ea7fdac0-4451-48b5-bbfd-e0f47d60ba04"
