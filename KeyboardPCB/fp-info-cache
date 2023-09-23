@@ -1,4 +1,4 @@
-21958129581039594
+21959825022679099
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90719,6 +90719,13 @@ Switch
 0
 4
 4
+keyboard_syms
+B3U1100PB
+B3U-1100P-B-3
+Switch
+0
+3
+3
 keyboard_syms
 C0603
 C0603
